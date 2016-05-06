@@ -53,5 +53,5 @@ And last but not least, if the site is Georgian you can get information from che
 
 **Requirements:**<br>
 Ubuntu 16.04 x64 (or any ubuntu version)<br>
-Python 3<br>
+Python<br>
 [Download](https://github.com/secrary/EllaScanner)
