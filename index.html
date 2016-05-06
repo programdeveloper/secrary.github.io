@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% include header.html %}
+
+<div class="blog">
+    <h1>Blog Posts:</h1>
+    <ul>
+        {% for post in site.posts reversed %}
+        <li>
+            <snap>&rarr; </snap><a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

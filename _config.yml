@@ -1,0 +1,15 @@
+name: Lasha Khasaia
+description: Does it matter?
+
+permalink: /:title
+
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
