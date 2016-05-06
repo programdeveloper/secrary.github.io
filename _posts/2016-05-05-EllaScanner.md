@@ -52,6 +52,5 @@ And last but not least, if the site is Georgian you can get information from che
 ![checknet](https://i.imgur.com/TtgwLKh.png)
 
 **Requirements:**<br>
-Ubuntu 16.04 x64 (or any ubuntu version)<br>
-Python<br>
+Python 3<br>
 [Download](https://github.com/secrary/EllaScanner)
