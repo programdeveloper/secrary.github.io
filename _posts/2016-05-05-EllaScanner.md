@@ -12,7 +12,7 @@ Usage:
 {% endhighlight %}
 
 Scanning of the site consists several phases:<br>
-At first phase, you can get recommendations related to http/https headers.
+At the first phase, you can get recommendations related to http/https headers.
 
 {% highlight bash %}
 ./Start.py https://secrary.com
