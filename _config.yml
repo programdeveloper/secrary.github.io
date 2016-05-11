@@ -1,12 +1,9 @@
 name: Lasha Khasaia
 description: Does it matter?
-url: secrary.com
-author: Lasha Khasaia
-
+author:
+  twitter: _qaz_qaz
+  
 permalink: /:title
-
-twitter:
-  username: _qaz_qaz
 
 sass:
   style: :compressed
