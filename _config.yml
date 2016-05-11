@@ -1,7 +1,12 @@
 name: Lasha Khasaia
 description: Does it matter?
+url: secrary.com
+author: Lasha Khasaia
 
 permalink: /:title
+
+twitter:
+  username: _qaz_qaz
 
 sass:
   style: :compressed
@@ -13,3 +18,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
