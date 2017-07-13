@@ -4,15 +4,17 @@
 @import "reset";
 @import "config";
 
+/*
 @font-face {
     font-family: 'Ubuntu Mono';
     src: url(UbuntuMono-Regular.ttf);
 }
+*/
 
 body {
     color: $color-fg;
     background: $color-bg;
-    font-family: 'Ubuntu Mono', monospace;
+    /* font-family: 'Ubuntu Mono', monospace; */
     font-size: 100%;
     font-weight: 400;
 }
