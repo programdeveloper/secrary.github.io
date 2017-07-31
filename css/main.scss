@@ -52,9 +52,9 @@ ul {
 
 
 .wrapper {
-    max-width: 50%;
-    margin: auto;
-    padding: 60px 30px 60px 30px;
+    max-width: 80%;
+    margin: 0px auto;
+    padding: 60px 0px;
     @media screen and (max-width: $br) {
         padding: 20px;
     }
@@ -204,6 +204,6 @@ ul {
 }
 
 img{
-    width: 100%;
+    width: 90%;
     margin: auto;
 }
